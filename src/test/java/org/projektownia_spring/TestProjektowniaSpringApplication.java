@@ -1,4 +1,4 @@
-package org.example.projektownia_spring;
+package org.projektownia_spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.test.context.TestConfiguration;
